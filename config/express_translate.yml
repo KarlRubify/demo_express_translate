@@ -1,0 +1,21 @@
+connect:
+  host: "0.0.0.0"
+  port: 6379
+  db: 10
+  
+# Default
+language:
+  id: en
+  text: English
+package:
+  id: be
+  text: Backend
+  
+account: 
+  - 
+    username: "username"
+    password: "password"
+  - 
+    username: "express_translate"
+    password: "password"
+
